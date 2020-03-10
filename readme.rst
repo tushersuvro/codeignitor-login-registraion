@@ -2,7 +2,7 @@
 Codeignitor Basic Login/Registration
 ###################
 
-It is a basic login/registration setup using CI framework with Pike admin template for jump starting project quickly.
+It is a basic login/registration setup using CI framework for jump starting project quickly.
 
 *******************
 Project Setup
